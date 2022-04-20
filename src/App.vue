@@ -9,10 +9,10 @@
         <th scope="row"><RouterLink to="/"><img src="house.png" width="25" height="25" alt="icone">Fils d'actualités</RouterLink></th>
         </tr>
         <tr>
-          <th scope="row"><RouterLink :to="{name : 'connexion'}"><img src="user.png" width="25" height="25" alt="icone">Créer un profil</RouterLink></th>
+          <th scope="row"><RouterLink :to="{name : 'createprofil'}"><img src="user.png" width="25" height="25" alt="icone">Créer un profil</RouterLink></th>
         </tr>
         <tr>
-          <th scope="row"><RouterLink :to="{name : 'createprofil'}"><img src="link.png" width="25" height="25" alt="icone">Se connecter</RouterLink></th>
+          <th scope="row"><RouterLink :to="{name : 'connexion'}"><img src="link.png" width="25" height="25" alt="icone">Se connecter</RouterLink></th>
         </tr>
       </tbody>
     </table>
