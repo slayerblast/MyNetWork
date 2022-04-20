@@ -1,0 +1,42 @@
+.container{
+    margin-top: 50px;
+}
+
+.titre{
+    font-size: 1.6em;
+}
+
+.text-size{
+    font-size: 1.3em;
+    
+}
+
+.date{
+    font-size: 1em;
+}
+
+.image-ronde{
+  width : 40px; height : 40px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+}
+
+.grey-bg{
+    background-color: rgba(0,0,0,.03);
+}
+
+.icone{
+    width: 15px;
+    height: 15px;
+}
+
+.card{
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.profil-card{
+    padding: 3%;
+}
